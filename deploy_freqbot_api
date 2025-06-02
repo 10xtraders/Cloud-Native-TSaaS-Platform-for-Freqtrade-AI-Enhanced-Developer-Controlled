@@ -96,7 +96,7 @@ def deploy_bot():
       "config": { ... }  # Freqtrade config dict
     }
 
-    See Freqtrade sample configs: https://www.freqtrade.io/en/stable/configuration/
+    See Freqtrade sample config on my README or use samples from: https://www.freqtrade.io/en/stable/configuration/
     """
     data = request.json
     namespace = data.get("namespace")
@@ -159,9 +159,8 @@ Content-Type: application/json
   "strategy_class": "Simplersistrategy1747867348688vgueu8",
   "strategy_code": "class Simplersistrategy1747867348688vgueu8(...): ...",   # Your strategy code as a string
   "config": {
-    // Paste your Freqtrade config here.
+    // Paste your Freqtrade config here or edit my sample config from my README.  
     // You can use AI-generated configs, or copy-paste from: https://www.freqtrade.io/en/stable/configuration/
-    // For a full example, see Freqtrade's docs or export from your app.
   }
 }
 
