@@ -56,7 +56,7 @@ We’re Freqtrade-native by design — this isn’t a wrapper. You can:
 
 ### 📬 Try It (Free Paper Bot Plan Available)
 
-🔗 [https://your-tsaas-platform.com](https://your-tsaas-platform.com)
+🔗 [https://10xtraders.ai](https://10xtraders.ai)
 
 You’ll get:
 
