@@ -30,15 +30,13 @@ This platform lets you:
 - We use Freqtrade (GPLv3) as the core engine
 - Our platform is a hosted service — no code redistribution = GPL compliant
 - Your strategies and API keys stay private — we never log or share them
-- You can export your logic anytime, including Dockerfile templates for self-hosting
 
 ---
 
 ### 📈 Who It’s For
 
-- Developers who want to focus on strategy, not infrastructure
+- Developers and Traders who want to focus on strategy, not infrastructure
 - Algo traders looking for AI tooling without black-box lock-in
-- Teams or creators running multiple bots who need real-time oversight
 - Freqtrade users who want an upgrade path to production trading
 
 ---
@@ -47,11 +45,9 @@ This platform lets you:
 
 We’re Freqtrade-native by design — this isn’t a wrapper. You can:
 
-- Deploy any Freqtrade-compatible `strategy.py`
-- Use your existing `config.json`
-- Mount external datasets
-- Get full log access per bot (via WebSockets and Kubernetes)
-
+- Deploy any Freqtrade-compatible `strategy`
+- Create your custom `config` for every strategy
+- Live view each bot execution logs
 ---
 
 ### 📬 Try It (Free Paper Bot Plan Available)
@@ -68,7 +64,7 @@ You’ll get:
 
 ### 🧠 Coming Soon
 
-- AI fragility detection & market regime classification
+- AI Pre-positioning & market regime classification
 - Strategy marketplace
 - Copy-trading subscriptions
 - Multi-bot portfolio analytics
