@@ -2,7 +2,7 @@
 
 Hey everyone 👋
 
-We’re excited to introduce something the Freqtrade community has needed for a long time:
+We’re excited to introduce something the [**Freqtrade community**](https://www.freqtrade.io/en/stable/) has needed for a long time:
 
 A [**cloud-native, AI-powered TSaaS platform**](https://10xtraders.ai) that lets you build, test, and run your Freqtrade strategies in the cloud — instantly.
 
