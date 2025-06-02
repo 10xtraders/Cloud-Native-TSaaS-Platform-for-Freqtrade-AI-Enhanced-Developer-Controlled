@@ -45,7 +45,7 @@ This platform lets you:
 
 We’re Freqtrade-native by design — this isn’t a wrapper. You can:
 
-- Deploy any Freqtrade-compatible `strategy`
+- Deploy any Freqtrade-compatible `strategy`. Check some [**here**}(https://github.com/freqtrade/freqtrade-strategies/tree/main) from Freqtrade and [**this**](https://github.com/davidzr/freqtrade-strategies/tree/main/strategies) as provided by [**@davidzr**](https://github.com/davidzr) 
 - Create your custom `config` for every strategy
 - Live view each bot execution logs
 ---
