@@ -4,7 +4,7 @@ Hey everyone 👋
 
 We’re excited to introduce something the Freqtrade community has needed for a long time:
 
-A **cloud-native, AI-powered TSaaS platform** that lets you build, test, and run your Freqtrade strategies in the cloud — instantly.
+A [**cloud-native, AI-powered TSaaS platform**](https://10xtraders.ai) that lets you build, test, and run your Freqtrade strategies in the cloud — instantly.
 
 No more CLI headaches, YAML tuning, or DevOps fire drills.
 
