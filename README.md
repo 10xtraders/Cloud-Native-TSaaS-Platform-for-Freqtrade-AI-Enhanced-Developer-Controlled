@@ -14,12 +14,12 @@ No more CLI headaches, YAML tuning, or DevOps fire drills.
 
 This platform lets you:
 
-- ✅ **Upload or build your own `strategy.py`**
+- ✅ **Upload or build your own `strategy with AI`**
 - ✅ **Auto-deploy live or paper bots with 1-click Kubernetes orchestration**
 - ✅ **Use AI tools to:**
   - Generate new strategies from scratch (GPT-powered)
   - Add fragility filters and pre-positioning risk models *(coming soon)*
-- ✅ **View real-time candle charts + trade overlays via a hosted TradingView interface**
+- ✅ **View real-time candle charts + trade overlays via TradingView charts**
 - ✅ **Export your bot + strategy if you prefer to self-host** — you keep full control
 - ✅ **Works 100% with native Freqtrade strategies and config**
 
