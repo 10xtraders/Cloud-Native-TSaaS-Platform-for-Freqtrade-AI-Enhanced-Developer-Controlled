@@ -63,16 +63,6 @@ You’ll get:
 
 ---
 
-### 🧠 Coming Soon
-
-- AI Pre-positioning & market regime classification
-- Strategy marketplace
-- Copy-trading subscriptions
-- Multi-bot portfolio analytics
-- Broker integration for stocks & options
-
----
-
 ### 🙌 Let’s Collaborate
 
 If you:
